@@ -16,10 +16,9 @@ public class buscontrol : MonoBehaviour
 
     // Update is called once per frame
     void Update()  {
-     
-    
-            input.GetaAxisRaw("horizontal")
-        tr
+
+
+    Input.GetAxisRaw("horizontal");
 
 
     }
